@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI 小游戏生成器</title>
+  <style>
+    :root { color-scheme: dark; }
+    body { margin: 0; font-family: system-ui, sans-serif; background: #0b0e1a;
+           color: #e8ecff; display: flex; min-height: 100vh; }
+    .panel { width: 380px; padding: 24px; box-sizing: border-box;
+             border-right: 1px solid #1e2440; }
+    h1 { font-size: 20px; margin: 0 0 4px; }
+    .sub { color: #7788aa; font-size: 13px; margin-bottom: 20px; }
+    textarea { width: 100%; height: 120px; box-sizing: border-box; resize: vertical;
+               background: #121732; color: #e8ecff; border: 1px solid #2a325a;
+               border-radius: 8px; padding: 10px; font-size: 14px; }
+    button { margin-top: 12px; width: 100%; padding: 12px; border: 0;
+             border-radius: 8px; background: #4466ff; color: #fff; font-size: 15px;
+             cursor: pointer; }
+    button:disabled { background: #333a5c; cursor: wait; }
+    .preview { flex: 1; display: flex; align-items: center; justify-content: center; }
+    iframe { width: 100%; height: 100%; border: 0; }
+    .status { margin-top: 12px; font-size: 13px; color: #aad4ff; white-space: pre-wrap; }
+    .examples span { display: inline-block; margin: 4px 4px 0 0; padding: 4px 8px;
+                     background: #1a2140; border-radius: 6px; font-size: 12px;
+                     cursor: pointer; }
+  </style>
+</head>
+<body>
+  <div class="panel">
+    <h1>AI 小游戏生成器</h1>
+    <div class="sub">用一句话描述你想要的游戏</div>
+    <textarea id="desc" placeholder="例：一个太空弹幕射击游戏，霓虹像素风，三种敌人">一个太空弹幕射击游戏，霓虹像素风，三种敌人</textarea>
+    <div class="examples">
+      <span>深海主题的射击游戏</span>
+      <span>卡通风格，简单易上手</span>
+      <span>高难度，敌人会追踪玩家</span>
+    </div>
+    <button id="gen">生成游戏</button>
+    <div class="status" id="status"></div>
+  </div>
+  <div class="preview">
+    <iframe id="frame" title="game preview"></iframe>
+  </div>
+
+  <script>
+    // Wire to the backend API (agent/server.py, added in Phase 5).
+    const API = "/api/generate";
+    const $ = (id) => document.getElementById(id);
+
+    document.querySelectorAll(".examples span").forEach((s) => {
+      s.onclick = () => { $("desc").value = s.textContent; };
+    });
+
+    $("gen").onclick = async () => {
+      const description = $("desc").value.trim();
+      if (!description) return;
+      $("gen").disabled = true;
+      $("status").textContent = "生成中… 理解需求 → 检索素材 → 生成代码";
+      try {
+        const r = await fetch(API, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ description }),
+        });
+        const data = await r.json();
+        if (data.url) {
+          $("frame").src = data.url;
+          $("status").textContent = "完成：" + (data.title || "");
+        } else {
+          $("status").textContent = "出错：" + (data.error || "unknown");
+        }
+      } catch (e) {
+        $("status").textContent = "请求失败：" + e.message;
+      } finally {
+        $("gen").disabled = false;
+      }
+    };
+  </script>
+</body>
+</html>

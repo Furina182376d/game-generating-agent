@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Vector index artifacts (regenerable)
+assets/*.faiss
+assets/*.npy
+
+# Generated games
+output/
+*.log

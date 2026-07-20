@@ -1,0 +1,11 @@
+[
+  {
+    "path": "characters/EXAMPLE_player_ship.png",
+    "category": "characters",
+    "name": "Blue player spaceship",
+    "tags": ["spaceship", "player", "blue", "sci-fi"],
+    "style": "pixel",
+    "source": "https://kenney.nl/assets/space-shooter-redux",
+    "license": "CC0"
+  }
+]
