@@ -1,11 +1,5342 @@
 [
   {
-    "path": "characters/EXAMPLE_player_ship.png",
+    "path": "characters/assets__dude.png",
     "category": "characters",
-    "name": "Blue player spaceship",
-    "tags": ["spaceship", "player", "blue", "sci-fi"],
+    "name": "dude",
+    "tags": [
+      "characters",
+      "dude"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.24/src/games/firstgame/assets/dude.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/animations__alien.png",
+    "category": "characters",
+    "name": "alien",
+    "tags": [
+      "characters",
+      "alien"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/animations/alien.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/animations__mummy37x45.png",
+    "category": "characters",
+    "name": "mummy37x45",
+    "tags": [
+      "characters",
+      "mummy37x45"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/animations/mummy37x45.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/animations__rocket.png",
+    "category": "characters",
+    "name": "rocket",
+    "tags": [
+      "characters",
+      "rocket"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/animations/rocket.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/animations__seacreatures.png",
+    "category": "characters",
+    "name": "seacreatures",
+    "tags": [
+      "characters",
+      "seacreatures"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/animations/seacreatures.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/animations__seacreatures_json.png",
+    "category": "characters",
+    "name": "seacreatures json",
+    "tags": [
+      "characters",
+      "seacreatures",
+      "json"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/animations/seacreatures_json.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/animations__zombie.png",
+    "category": "characters",
+    "name": "zombie",
+    "tags": [
+      "characters",
+      "zombie"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/animations/zombie.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/asteroids__ship.png",
+    "category": "characters",
+    "name": "ship",
+    "tags": [
+      "characters",
+      "ship"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/games/asteroids/ship.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/flood__monsters.png",
+    "category": "characters",
+    "name": "monsters",
+    "tags": [
+      "characters",
+      "monsters"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/games/flood/monsters.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/germs__slime-font.png",
+    "category": "characters",
+    "name": "slime font",
+    "tags": [
+      "characters",
+      "slime",
+      "font"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/games/germs/slime-font.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/lazer__enemy-big.png",
+    "category": "characters",
+    "name": "enemy big",
+    "tags": [
+      "characters",
+      "enemy",
+      "big"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/games/lazer/enemy-big.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/lazer__enemy-medium.png",
+    "category": "characters",
+    "name": "enemy medium",
+    "tags": [
+      "characters",
+      "enemy",
+      "medium"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/games/lazer/enemy-medium.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/lazer__enemy-small.png",
+    "category": "characters",
+    "name": "enemy small",
+    "tags": [
+      "characters",
+      "enemy",
+      "small"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/games/lazer/enemy-small.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/lazer__ship.png",
+    "category": "characters",
+    "name": "ship",
+    "tags": [
+      "characters",
+      "ship"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/games/lazer/ship.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/multi__invader1.png",
+    "category": "characters",
+    "name": "invader1",
+    "tags": [
+      "characters",
+      "invader1"
+    ],
     "style": "pixel",
-    "source": "https://kenney.nl/assets/space-shooter-redux",
-    "license": "CC0"
+    "source": "github:phaserjs/examples/public/3.55/assets/games/multi/invader1.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/multi__invader2.png",
+    "category": "characters",
+    "name": "invader2",
+    "tags": [
+      "characters",
+      "invader2"
+    ],
+    "style": "pixel",
+    "source": "github:phaserjs/examples/public/3.55/assets/games/multi/invader2.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/multi__invader3.png",
+    "category": "characters",
+    "name": "invader3",
+    "tags": [
+      "characters",
+      "invader3"
+    ],
+    "style": "pixel",
+    "source": "github:phaserjs/examples/public/3.55/assets/games/multi/invader3.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/multi__mothership.png",
+    "category": "characters",
+    "name": "mothership",
+    "tags": [
+      "characters",
+      "mothership"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/games/multi/mothership.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/multi__ship.png",
+    "category": "characters",
+    "name": "ship",
+    "tags": [
+      "characters",
+      "ship"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/games/multi/ship.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/phaser3__invaders-icon.png",
+    "category": "characters",
+    "name": "invaders icon",
+    "tags": [
+      "characters",
+      "invaders",
+      "icon"
+    ],
+    "style": "pixel",
+    "source": "github:phaserjs/examples/public/3.55/assets/phaser3/invaders-icon.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/phaser3__invaders-window.png",
+    "category": "characters",
+    "name": "invaders window",
+    "tags": [
+      "characters",
+      "invaders",
+      "window"
+    ],
+    "style": "pixel",
+    "source": "github:phaserjs/examples/public/3.55/assets/phaser3/invaders-window.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/pics__spaceship.png",
+    "category": "characters",
+    "name": "spaceship",
+    "tags": [
+      "characters",
+      "spaceship"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/pics/spaceship.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/rope__skeleton.png",
+    "category": "characters",
+    "name": "skeleton",
+    "tags": [
+      "characters",
+      "skeleton"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/rope/skeleton.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/sprites__alienbusters.png",
+    "category": "characters",
+    "name": "alienbusters",
+    "tags": [
+      "characters",
+      "alienbusters"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/alienbusters.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/sprites__block-slime.png",
+    "category": "characters",
+    "name": "block slime",
+    "tags": [
+      "characters",
+      "block",
+      "slime"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/block-slime.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/sprites__dude-cropped.png",
+    "category": "characters",
+    "name": "dude cropped",
+    "tags": [
+      "characters",
+      "dude",
+      "cropped"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/dude-cropped.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/sprites__dude.png",
+    "category": "characters",
+    "name": "dude",
+    "tags": [
+      "characters",
+      "dude"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/dude.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/sprites__fmship.png",
+    "category": "characters",
+    "name": "fmship",
+    "tags": [
+      "characters",
+      "fmship"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/fmship.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/sprites__jets.png",
+    "category": "characters",
+    "name": "jets",
+    "tags": [
+      "characters",
+      "jets"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/jets.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/sprites__metalslug_monster39x40.png",
+    "category": "characters",
+    "name": "metalslug monster39x40",
+    "tags": [
+      "characters",
+      "metalslug",
+      "monster39x40"
+    ],
+    "style": "pixel",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/metalslug_monster39x40.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/sprites__metalslug_mummy37x45.png",
+    "category": "characters",
+    "name": "metalslug mummy37x45",
+    "tags": [
+      "characters",
+      "metalslug",
+      "mummy37x45"
+    ],
+    "style": "pixel",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/metalslug_mummy37x45.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/sprites__phaser-dude.png",
+    "category": "characters",
+    "name": "phaser dude",
+    "tags": [
+      "characters",
+      "phaser",
+      "dude"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/phaser-dude.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/sprites__phaser-ship.png",
+    "category": "characters",
+    "name": "phaser ship",
+    "tags": [
+      "characters",
+      "phaser",
+      "ship"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/phaser-ship.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/plane-pop-up-effect__dark_rider-character.png",
+    "category": "characters",
+    "name": "dark rider character",
+    "tags": [
+      "characters",
+      "dark",
+      "rider",
+      "character"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/plane-pop-up-effect/dark_rider-character.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/plane-pop-up-effect__dark_rider-cover.png",
+    "category": "characters",
+    "name": "dark rider cover",
+    "tags": [
+      "characters",
+      "dark",
+      "rider",
+      "cover"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/plane-pop-up-effect/dark_rider-cover.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/plane-pop-up-effect__dark_rider-title.png",
+    "category": "characters",
+    "name": "dark rider title",
+    "tags": [
+      "characters",
+      "dark",
+      "rider",
+      "title"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/plane-pop-up-effect/dark_rider-title.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/plane-pop-up-effect__force_mage-character.png",
+    "category": "characters",
+    "name": "force mage character",
+    "tags": [
+      "characters",
+      "force",
+      "mage",
+      "character"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/plane-pop-up-effect/force_mage-character.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/plane-pop-up-effect__force_mage-cover.png",
+    "category": "characters",
+    "name": "force mage cover",
+    "tags": [
+      "characters",
+      "force",
+      "mage",
+      "cover"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/plane-pop-up-effect/force_mage-cover.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/plane-pop-up-effect__force_mage-title.png",
+    "category": "characters",
+    "name": "force mage title",
+    "tags": [
+      "characters",
+      "force",
+      "mage",
+      "title"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/plane-pop-up-effect/force_mage-title.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/sprites__plane.png",
+    "category": "characters",
+    "name": "plane",
+    "tags": [
+      "characters",
+      "plane"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/plane.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/sprites__planet1.png",
+    "category": "characters",
+    "name": "planet1",
+    "tags": [
+      "characters",
+      "planet1"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/planet1.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/sprites__planet2.png",
+    "category": "characters",
+    "name": "planet2",
+    "tags": [
+      "characters",
+      "planet2"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/planet2.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/sprites__planet3.png",
+    "category": "characters",
+    "name": "planet3",
+    "tags": [
+      "characters",
+      "planet3"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/planet3.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/sprites__player.png",
+    "category": "characters",
+    "name": "player",
+    "tags": [
+      "characters",
+      "player"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/player.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/sprites__player_handgun.png",
+    "category": "characters",
+    "name": "player handgun",
+    "tags": [
+      "characters",
+      "player",
+      "handgun"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/player_handgun.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/sprites__ship.png",
+    "category": "characters",
+    "name": "ship",
+    "tags": [
+      "characters",
+      "ship"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/ship.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/sprites__shmup-ship.png",
+    "category": "characters",
+    "name": "shmup ship",
+    "tags": [
+      "characters",
+      "shmup",
+      "ship"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/shmup-ship.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/sprites__shmup-ship2.png",
+    "category": "characters",
+    "name": "shmup ship2",
+    "tags": [
+      "characters",
+      "shmup",
+      "ship2"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/shmup-ship2.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/sprites__slime.png",
+    "category": "characters",
+    "name": "slime",
+    "tags": [
+      "characters",
+      "slime"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/slime.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/sprites__slimeeyes.png",
+    "category": "characters",
+    "name": "slimeeyes",
+    "tags": [
+      "characters",
+      "slimeeyes"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/slimeeyes.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/sprites__thrust_ship.png",
+    "category": "characters",
+    "name": "thrust ship",
+    "tags": [
+      "characters",
+      "thrust",
+      "ship"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/thrust_ship.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/sprites__thrust_ship2.png",
+    "category": "characters",
+    "name": "thrust ship2",
+    "tags": [
+      "characters",
+      "thrust",
+      "ship2"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/thrust_ship2.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/sprites__ufo.png",
+    "category": "characters",
+    "name": "ufo",
+    "tags": [
+      "characters",
+      "ufo"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/ufo.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/sprites__ww2plane.png",
+    "category": "characters",
+    "name": "ww2plane",
+    "tags": [
+      "characters",
+      "ww2plane"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/ww2plane.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/sprites__ww2plane90.png",
+    "category": "characters",
+    "name": "ww2plane90",
+    "tags": [
+      "characters",
+      "ww2plane90"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/ww2plane90.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/sprites__x2kship.png",
+    "category": "characters",
+    "name": "x2kship",
+    "tags": [
+      "characters",
+      "x2kship"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/x2kship.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/sprites__xenon2_ship.png",
+    "category": "characters",
+    "name": "xenon2 ship",
+    "tags": [
+      "characters",
+      "xenon2",
+      "ship"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/xenon2_ship.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/tweens__ufo.png",
+    "category": "characters",
+    "name": "ufo",
+    "tags": [
+      "characters",
+      "ufo"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/tweens/ufo.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/tweens__ufo1.png",
+    "category": "characters",
+    "name": "ufo1",
+    "tags": [
+      "characters",
+      "ufo1"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/tweens/ufo1.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/tweens__ufo2.png",
+    "category": "characters",
+    "name": "ufo2",
+    "tags": [
+      "characters",
+      "ufo2"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/tweens/ufo2.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/tweens__ufo3.png",
+    "category": "characters",
+    "name": "ufo3",
+    "tags": [
+      "characters",
+      "ufo3"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/tweens/ufo3.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/assets__dude_1.png",
+    "category": "characters",
+    "name": "dude",
+    "tags": [
+      "characters",
+      "dude"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/src/games/firstgame/assets/dude.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/animations__alien_1.png",
+    "category": "characters",
+    "name": "alien",
+    "tags": [
+      "characters",
+      "alien"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/animations/alien.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/animations__mummy37x45_1.png",
+    "category": "characters",
+    "name": "mummy37x45",
+    "tags": [
+      "characters",
+      "mummy37x45"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/animations/mummy37x45.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/animations__rocket_1.png",
+    "category": "characters",
+    "name": "rocket",
+    "tags": [
+      "characters",
+      "rocket"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/animations/rocket.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/animations__seacreatures_1.png",
+    "category": "characters",
+    "name": "seacreatures",
+    "tags": [
+      "characters",
+      "seacreatures"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/animations/seacreatures.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/animations__seacreatures_json_1.png",
+    "category": "characters",
+    "name": "seacreatures json",
+    "tags": [
+      "characters",
+      "seacreatures",
+      "json"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/animations/seacreatures_json.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/animations__zombie_1.png",
+    "category": "characters",
+    "name": "zombie",
+    "tags": [
+      "characters",
+      "zombie"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/animations/zombie.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/asteroids__ship_1.png",
+    "category": "characters",
+    "name": "ship",
+    "tags": [
+      "characters",
+      "ship"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/games/asteroids/ship.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/flood__monsters_1.png",
+    "category": "characters",
+    "name": "monsters",
+    "tags": [
+      "characters",
+      "monsters"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/games/flood/monsters.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/germs__slime-font_1.png",
+    "category": "characters",
+    "name": "slime font",
+    "tags": [
+      "characters",
+      "slime",
+      "font"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/games/germs/slime-font.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/lazer__enemy-big_1.png",
+    "category": "characters",
+    "name": "enemy big",
+    "tags": [
+      "characters",
+      "enemy",
+      "big"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/games/lazer/enemy-big.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/lazer__enemy-medium_1.png",
+    "category": "characters",
+    "name": "enemy medium",
+    "tags": [
+      "characters",
+      "enemy",
+      "medium"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/games/lazer/enemy-medium.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/lazer__enemy-small_1.png",
+    "category": "characters",
+    "name": "enemy small",
+    "tags": [
+      "characters",
+      "enemy",
+      "small"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/games/lazer/enemy-small.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/lazer__ship_1.png",
+    "category": "characters",
+    "name": "ship",
+    "tags": [
+      "characters",
+      "ship"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/games/lazer/ship.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/multi__invader1_1.png",
+    "category": "characters",
+    "name": "invader1",
+    "tags": [
+      "characters",
+      "invader1"
+    ],
+    "style": "pixel",
+    "source": "github:phaserjs/examples/public/3.86/assets/games/multi/invader1.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/multi__invader2_1.png",
+    "category": "characters",
+    "name": "invader2",
+    "tags": [
+      "characters",
+      "invader2"
+    ],
+    "style": "pixel",
+    "source": "github:phaserjs/examples/public/3.86/assets/games/multi/invader2.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/multi__invader3_1.png",
+    "category": "characters",
+    "name": "invader3",
+    "tags": [
+      "characters",
+      "invader3"
+    ],
+    "style": "pixel",
+    "source": "github:phaserjs/examples/public/3.86/assets/games/multi/invader3.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/multi__mothership_1.png",
+    "category": "characters",
+    "name": "mothership",
+    "tags": [
+      "characters",
+      "mothership"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/games/multi/mothership.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/multi__ship_1.png",
+    "category": "characters",
+    "name": "ship",
+    "tags": [
+      "characters",
+      "ship"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/games/multi/ship.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/phaser3__invaders-icon_1.png",
+    "category": "characters",
+    "name": "invaders icon",
+    "tags": [
+      "characters",
+      "invaders",
+      "icon"
+    ],
+    "style": "pixel",
+    "source": "github:phaserjs/examples/public/3.86/assets/phaser3/invaders-icon.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/phaser3__invaders-window_1.png",
+    "category": "characters",
+    "name": "invaders window",
+    "tags": [
+      "characters",
+      "invaders",
+      "window"
+    ],
+    "style": "pixel",
+    "source": "github:phaserjs/examples/public/3.86/assets/phaser3/invaders-window.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/images__player1.png",
+    "category": "characters",
+    "name": "player1",
+    "tags": [
+      "characters",
+      "player1"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/phaserbyexample/starshake/assets/images/player1.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/images__zombie.png",
+    "category": "characters",
+    "name": "zombie",
+    "tags": [
+      "characters",
+      "zombie"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/phaserbyexample/wallhamer/assets/images/zombie.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/pics__spaceship_1.png",
+    "category": "characters",
+    "name": "spaceship",
+    "tags": [
+      "characters",
+      "spaceship"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/pics/spaceship.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/rapier__phaser-ship.png",
+    "category": "characters",
+    "name": "phaser ship",
+    "tags": [
+      "characters",
+      "phaser",
+      "ship"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/rapier/phaser-ship.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/rope__skeleton_1.png",
+    "category": "characters",
+    "name": "skeleton",
+    "tags": [
+      "characters",
+      "skeleton"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/rope/skeleton.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/shaders__alien.png",
+    "category": "characters",
+    "name": "alien",
+    "tags": [
+      "characters",
+      "alien"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/shaders/alien.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/sprites__alienbusters_1.png",
+    "category": "characters",
+    "name": "alienbusters",
+    "tags": [
+      "characters",
+      "alienbusters"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/alienbusters.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/sprites__block-slime_1.png",
+    "category": "characters",
+    "name": "block slime",
+    "tags": [
+      "characters",
+      "block",
+      "slime"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/block-slime.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/sprites__dude-cropped_1.png",
+    "category": "characters",
+    "name": "dude cropped",
+    "tags": [
+      "characters",
+      "dude",
+      "cropped"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/dude-cropped.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/sprites__dude_1.png",
+    "category": "characters",
+    "name": "dude",
+    "tags": [
+      "characters",
+      "dude"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/dude.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/sprites__fmship_1.png",
+    "category": "characters",
+    "name": "fmship",
+    "tags": [
+      "characters",
+      "fmship"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/fmship.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/sprites__jets_1.png",
+    "category": "characters",
+    "name": "jets",
+    "tags": [
+      "characters",
+      "jets"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/jets.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/sprites__metalslug_monster39x40_1.png",
+    "category": "characters",
+    "name": "metalslug monster39x40",
+    "tags": [
+      "characters",
+      "metalslug",
+      "monster39x40"
+    ],
+    "style": "pixel",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/metalslug_monster39x40.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/sprites__metalslug_mummy37x45_1.png",
+    "category": "characters",
+    "name": "metalslug mummy37x45",
+    "tags": [
+      "characters",
+      "metalslug",
+      "mummy37x45"
+    ],
+    "style": "pixel",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/metalslug_mummy37x45.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/sprites__phaser-dude_1.png",
+    "category": "characters",
+    "name": "phaser dude",
+    "tags": [
+      "characters",
+      "phaser",
+      "dude"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/phaser-dude.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/sprites__phaser-ship_1.png",
+    "category": "characters",
+    "name": "phaser ship",
+    "tags": [
+      "characters",
+      "phaser",
+      "ship"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/phaser-ship.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/plane-pop-up-effect__dark_rider-character_1.png",
+    "category": "characters",
+    "name": "dark rider character",
+    "tags": [
+      "characters",
+      "dark",
+      "rider",
+      "character"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/plane-pop-up-effect/dark_rider-character.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/plane-pop-up-effect__dark_rider-cover_1.png",
+    "category": "characters",
+    "name": "dark rider cover",
+    "tags": [
+      "characters",
+      "dark",
+      "rider",
+      "cover"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/plane-pop-up-effect/dark_rider-cover.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/plane-pop-up-effect__dark_rider-title_1.png",
+    "category": "characters",
+    "name": "dark rider title",
+    "tags": [
+      "characters",
+      "dark",
+      "rider",
+      "title"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/plane-pop-up-effect/dark_rider-title.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/plane-pop-up-effect__force_mage-character_1.png",
+    "category": "characters",
+    "name": "force mage character",
+    "tags": [
+      "characters",
+      "force",
+      "mage",
+      "character"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/plane-pop-up-effect/force_mage-character.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/plane-pop-up-effect__force_mage-cover_1.png",
+    "category": "characters",
+    "name": "force mage cover",
+    "tags": [
+      "characters",
+      "force",
+      "mage",
+      "cover"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/plane-pop-up-effect/force_mage-cover.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/plane-pop-up-effect__force_mage-title_1.png",
+    "category": "characters",
+    "name": "force mage title",
+    "tags": [
+      "characters",
+      "force",
+      "mage",
+      "title"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/plane-pop-up-effect/force_mage-title.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/sprites__plane_1.png",
+    "category": "characters",
+    "name": "plane",
+    "tags": [
+      "characters",
+      "plane"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/plane.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/sprites__planet1_1.png",
+    "category": "characters",
+    "name": "planet1",
+    "tags": [
+      "characters",
+      "planet1"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/planet1.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/sprites__planet2_1.png",
+    "category": "characters",
+    "name": "planet2",
+    "tags": [
+      "characters",
+      "planet2"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/planet2.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/sprites__planet3_1.png",
+    "category": "characters",
+    "name": "planet3",
+    "tags": [
+      "characters",
+      "planet3"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/planet3.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/sprites__player_1.png",
+    "category": "characters",
+    "name": "player",
+    "tags": [
+      "characters",
+      "player"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/player.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "characters/sprites__player_handgun_1.png",
+    "category": "characters",
+    "name": "player handgun",
+    "tags": [
+      "characters",
+      "player",
+      "handgun"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/player_handgun.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/bugs__background.png",
+    "category": "backgrounds",
+    "name": "background",
+    "tags": [
+      "backgrounds",
+      "background"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/bugs/background.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/bank-panic__background.png",
+    "category": "backgrounds",
+    "name": "background",
+    "tags": [
+      "backgrounds",
+      "background"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/games/bank-panic/background.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/card-memory-game__background.png",
+    "category": "backgrounds",
+    "name": "background",
+    "tags": [
+      "backgrounds",
+      "background"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/games/card-memory-game/background.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/emoji-match__background.png",
+    "category": "backgrounds",
+    "name": "background",
+    "tags": [
+      "backgrounds",
+      "background"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/games/emoji-match/background.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/germs__background.png",
+    "category": "backgrounds",
+    "name": "background",
+    "tags": [
+      "backgrounds",
+      "background"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/games/germs/background.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/sliding-puzzle__background.png",
+    "category": "backgrounds",
+    "name": "background",
+    "tags": [
+      "backgrounds",
+      "background"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/games/sliding-puzzle/background.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/snowmen-attack__background.png",
+    "category": "backgrounds",
+    "name": "background",
+    "tags": [
+      "backgrounds",
+      "background"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/games/snowmen-attack/background.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/tom__background.png",
+    "category": "backgrounds",
+    "name": "background",
+    "tags": [
+      "backgrounds",
+      "background"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/games/tom/background.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/fruit-sprites__background.png",
+    "category": "backgrounds",
+    "name": "background",
+    "tags": [
+      "backgrounds",
+      "background"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/physics/fruit-sprites/background.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/pics__fairy-background-craft-pixel.png",
+    "category": "backgrounds",
+    "name": "fairy background craft pixel",
+    "tags": [
+      "backgrounds",
+      "fairy",
+      "background",
+      "craft",
+      "pixel"
+    ],
+    "style": "pixel",
+    "source": "github:phaserjs/examples/public/3.55/assets/pics/fairy-background-craft-pixel.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/pics__fof-background.png",
+    "category": "backgrounds",
+    "name": "fof background",
+    "tags": [
+      "backgrounds",
+      "fof",
+      "background"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/pics/fof-background.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/rope__background-grave.png",
+    "category": "backgrounds",
+    "name": "background grave",
+    "tags": [
+      "backgrounds",
+      "background",
+      "grave"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/rope/background-grave.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/rope__background-meadow.png",
+    "category": "backgrounds",
+    "name": "background meadow",
+    "tags": [
+      "backgrounds",
+      "background",
+      "meadow"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/rope/background-meadow.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/rope__background-neon.png",
+    "category": "backgrounds",
+    "name": "background neon",
+    "tags": [
+      "backgrounds",
+      "background",
+      "neon"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/rope/background-neon.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/rope__background-red.png",
+    "category": "backgrounds",
+    "name": "background red",
+    "tags": [
+      "backgrounds",
+      "background",
+      "red"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/rope/background-red.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/rope__background-woof.png",
+    "category": "backgrounds",
+    "name": "background woof",
+    "tags": [
+      "backgrounds",
+      "background",
+      "woof"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/rope/background-woof.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/sets__background.png",
+    "category": "backgrounds",
+    "name": "background",
+    "tags": [
+      "backgrounds",
+      "background"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sets/background.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__background1.png",
+    "category": "backgrounds",
+    "name": "background1",
+    "tags": [
+      "backgrounds",
+      "background1"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/background1.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__bigsky.png",
+    "category": "backgrounds",
+    "name": "bigsky",
+    "tags": [
+      "backgrounds",
+      "bigsky"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/bigsky.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__casinotable.png",
+    "category": "backgrounds",
+    "name": "casinotable",
+    "tags": [
+      "backgrounds",
+      "casinotable"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/casinotable.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__cavern1.png",
+    "category": "backgrounds",
+    "name": "cavern1",
+    "tags": [
+      "backgrounds",
+      "cavern1"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/cavern1.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__cavern2.png",
+    "category": "backgrounds",
+    "name": "cavern2",
+    "tags": [
+      "backgrounds",
+      "cavern2"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/cavern2.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__chrome.png",
+    "category": "backgrounds",
+    "name": "chrome",
+    "tags": [
+      "backgrounds",
+      "chrome"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/chrome.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__clouds.png",
+    "category": "backgrounds",
+    "name": "clouds",
+    "tags": [
+      "backgrounds",
+      "clouds"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/clouds.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__darkstone.png",
+    "category": "backgrounds",
+    "name": "darkstone",
+    "tags": [
+      "backgrounds",
+      "darkstone"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/darkstone.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__deepblue.png",
+    "category": "backgrounds",
+    "name": "deepblue",
+    "tags": [
+      "backgrounds",
+      "deepblue"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/deepblue.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__fire.png",
+    "category": "backgrounds",
+    "name": "fire",
+    "tags": [
+      "backgrounds",
+      "fire"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/fire.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__fog.png",
+    "category": "backgrounds",
+    "name": "fog",
+    "tags": [
+      "backgrounds",
+      "fog"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/fog.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__gradient1.png",
+    "category": "backgrounds",
+    "name": "gradient1",
+    "tags": [
+      "backgrounds",
+      "gradient1"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/gradient1.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__gradient10.png",
+    "category": "backgrounds",
+    "name": "gradient10",
+    "tags": [
+      "backgrounds",
+      "gradient10"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/gradient10.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__gradient11.png",
+    "category": "backgrounds",
+    "name": "gradient11",
+    "tags": [
+      "backgrounds",
+      "gradient11"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/gradient11.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__gradient12.png",
+    "category": "backgrounds",
+    "name": "gradient12",
+    "tags": [
+      "backgrounds",
+      "gradient12"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/gradient12.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__gradient13.png",
+    "category": "backgrounds",
+    "name": "gradient13",
+    "tags": [
+      "backgrounds",
+      "gradient13"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/gradient13.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__gradient14.png",
+    "category": "backgrounds",
+    "name": "gradient14",
+    "tags": [
+      "backgrounds",
+      "gradient14"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/gradient14.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__gradient15.png",
+    "category": "backgrounds",
+    "name": "gradient15",
+    "tags": [
+      "backgrounds",
+      "gradient15"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/gradient15.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__gradient16.png",
+    "category": "backgrounds",
+    "name": "gradient16",
+    "tags": [
+      "backgrounds",
+      "gradient16"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/gradient16.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__gradient17.png",
+    "category": "backgrounds",
+    "name": "gradient17",
+    "tags": [
+      "backgrounds",
+      "gradient17"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/gradient17.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__gradient18.png",
+    "category": "backgrounds",
+    "name": "gradient18",
+    "tags": [
+      "backgrounds",
+      "gradient18"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/gradient18.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__gradient19.png",
+    "category": "backgrounds",
+    "name": "gradient19",
+    "tags": [
+      "backgrounds",
+      "gradient19"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/gradient19.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__gradient2.png",
+    "category": "backgrounds",
+    "name": "gradient2",
+    "tags": [
+      "backgrounds",
+      "gradient2"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/gradient2.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__gradient20.png",
+    "category": "backgrounds",
+    "name": "gradient20",
+    "tags": [
+      "backgrounds",
+      "gradient20"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/gradient20.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__gradient21.png",
+    "category": "backgrounds",
+    "name": "gradient21",
+    "tags": [
+      "backgrounds",
+      "gradient21"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/gradient21.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__gradient22.png",
+    "category": "backgrounds",
+    "name": "gradient22",
+    "tags": [
+      "backgrounds",
+      "gradient22"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/gradient22.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__gradient23.png",
+    "category": "backgrounds",
+    "name": "gradient23",
+    "tags": [
+      "backgrounds",
+      "gradient23"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/gradient23.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__gradient24.png",
+    "category": "backgrounds",
+    "name": "gradient24",
+    "tags": [
+      "backgrounds",
+      "gradient24"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/gradient24.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__gradient25.png",
+    "category": "backgrounds",
+    "name": "gradient25",
+    "tags": [
+      "backgrounds",
+      "gradient25"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/gradient25.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__gradient26.png",
+    "category": "backgrounds",
+    "name": "gradient26",
+    "tags": [
+      "backgrounds",
+      "gradient26"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/gradient26.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__gradient27.png",
+    "category": "backgrounds",
+    "name": "gradient27",
+    "tags": [
+      "backgrounds",
+      "gradient27"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/gradient27.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__gradient28.png",
+    "category": "backgrounds",
+    "name": "gradient28",
+    "tags": [
+      "backgrounds",
+      "gradient28"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/gradient28.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__gradient29.png",
+    "category": "backgrounds",
+    "name": "gradient29",
+    "tags": [
+      "backgrounds",
+      "gradient29"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/gradient29.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__gradient3.png",
+    "category": "backgrounds",
+    "name": "gradient3",
+    "tags": [
+      "backgrounds",
+      "gradient3"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/gradient3.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__gradient30.png",
+    "category": "backgrounds",
+    "name": "gradient30",
+    "tags": [
+      "backgrounds",
+      "gradient30"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/gradient30.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__gradient4.png",
+    "category": "backgrounds",
+    "name": "gradient4",
+    "tags": [
+      "backgrounds",
+      "gradient4"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/gradient4.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__gradient5.png",
+    "category": "backgrounds",
+    "name": "gradient5",
+    "tags": [
+      "backgrounds",
+      "gradient5"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/gradient5.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__gradient6.png",
+    "category": "backgrounds",
+    "name": "gradient6",
+    "tags": [
+      "backgrounds",
+      "gradient6"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/gradient6.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__gradient7.png",
+    "category": "backgrounds",
+    "name": "gradient7",
+    "tags": [
+      "backgrounds",
+      "gradient7"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/gradient7.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__gradient8.png",
+    "category": "backgrounds",
+    "name": "gradient8",
+    "tags": [
+      "backgrounds",
+      "gradient8"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/gradient8.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__gradient9.png",
+    "category": "backgrounds",
+    "name": "gradient9",
+    "tags": [
+      "backgrounds",
+      "gradient9"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/gradient9.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__grid.png",
+    "category": "backgrounds",
+    "name": "grid",
+    "tags": [
+      "backgrounds",
+      "grid"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/grid.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__lightblue.png",
+    "category": "backgrounds",
+    "name": "lightblue",
+    "tags": [
+      "backgrounds",
+      "lightblue"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/lightblue.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__mountains-tile.png",
+    "category": "backgrounds",
+    "name": "mountains tile",
+    "tags": [
+      "backgrounds",
+      "mountains",
+      "tile"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/mountains-tile.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__ms3-sky.png",
+    "category": "backgrounds",
+    "name": "ms3 sky",
+    "tags": [
+      "backgrounds",
+      "ms3",
+      "sky"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/ms3-sky.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__ms3-trees.png",
+    "category": "backgrounds",
+    "name": "ms3 trees",
+    "tags": [
+      "backgrounds",
+      "ms3",
+      "trees"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/ms3-trees.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__pixelsky.png",
+    "category": "backgrounds",
+    "name": "pixelsky",
+    "tags": [
+      "backgrounds",
+      "pixelsky"
+    ],
+    "style": "pixel",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/pixelsky.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__seablue.png",
+    "category": "backgrounds",
+    "name": "seablue",
+    "tags": [
+      "backgrounds",
+      "seablue"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/seablue.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__seaclouds.png",
+    "category": "backgrounds",
+    "name": "seaclouds",
+    "tags": [
+      "backgrounds",
+      "seaclouds"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/seaclouds.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__sf2boat.png",
+    "category": "backgrounds",
+    "name": "sf2boat",
+    "tags": [
+      "backgrounds",
+      "sf2boat"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/sf2boat.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__sf2floor.png",
+    "category": "backgrounds",
+    "name": "sf2floor",
+    "tags": [
+      "backgrounds",
+      "sf2floor"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/sf2floor.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__sky1.png",
+    "category": "backgrounds",
+    "name": "sky1",
+    "tags": [
+      "backgrounds",
+      "sky1"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/sky1.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__sky2.png",
+    "category": "backgrounds",
+    "name": "sky2",
+    "tags": [
+      "backgrounds",
+      "sky2"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/sky2.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__sky3.png",
+    "category": "backgrounds",
+    "name": "sky3",
+    "tags": [
+      "backgrounds",
+      "sky3"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/sky3.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__sky4.png",
+    "category": "backgrounds",
+    "name": "sky4",
+    "tags": [
+      "backgrounds",
+      "sky4"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/sky4.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__sky5.png",
+    "category": "backgrounds",
+    "name": "sky5",
+    "tags": [
+      "backgrounds",
+      "sky5"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/sky5.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__space1.png",
+    "category": "backgrounds",
+    "name": "space1",
+    "tags": [
+      "backgrounds",
+      "space1"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/space1.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__space2.png",
+    "category": "backgrounds",
+    "name": "space2",
+    "tags": [
+      "backgrounds",
+      "space2"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/space2.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__space3.png",
+    "category": "backgrounds",
+    "name": "space3",
+    "tags": [
+      "backgrounds",
+      "space3"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/space3.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__space4.png",
+    "category": "backgrounds",
+    "name": "space4",
+    "tags": [
+      "backgrounds",
+      "space4"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/space4.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__spooky.png",
+    "category": "backgrounds",
+    "name": "spooky",
+    "tags": [
+      "backgrounds",
+      "spooky"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/spooky.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__starfield.png",
+    "category": "backgrounds",
+    "name": "starfield",
+    "tags": [
+      "backgrounds",
+      "starfield"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/starfield.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "backgrounds/skies__sunorbit.png",
+    "category": "backgrounds",
+    "name": "sunorbit",
+    "tags": [
+      "backgrounds",
+      "sunorbit"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/skies/sunorbit.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/assets__star.png",
+    "category": "items",
+    "name": "star",
+    "tags": [
+      "items",
+      "star"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.24/src/games/firstgame/assets/star.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/demoscene__ball-tlb.png",
+    "category": "items",
+    "name": "ball tlb",
+    "tags": [
+      "items",
+      "ball",
+      "tlb"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/demoscene/ball-tlb.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/demoscene__ball.png",
+    "category": "items",
+    "name": "ball",
+    "tags": [
+      "items",
+      "ball"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/demoscene/ball.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/demoscene__star.png",
+    "category": "items",
+    "name": "star",
+    "tags": [
+      "items",
+      "star"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/demoscene/star.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/demoscene__vectorball1.png",
+    "category": "items",
+    "name": "vectorball1",
+    "tags": [
+      "items",
+      "vectorball1"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/demoscene/vectorball1.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/bank-panic__bullet-hole.png",
+    "category": "items",
+    "name": "bullet hole",
+    "tags": [
+      "items",
+      "bullet",
+      "hole"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/games/bank-panic/bullet-hole.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/breakout__ball1.png",
+    "category": "items",
+    "name": "ball1",
+    "tags": [
+      "items",
+      "ball1"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/games/breakout/ball1.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/breakout__ball2.png",
+    "category": "items",
+    "name": "ball2",
+    "tags": [
+      "items",
+      "ball2"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/games/breakout/ball2.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/lazer__laser-bolts.png",
+    "category": "items",
+    "name": "laser bolts",
+    "tags": [
+      "items",
+      "laser",
+      "bolts"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/games/lazer/laser-bolts.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/lazer__power-up.png",
+    "category": "items",
+    "name": "power up",
+    "tags": [
+      "items",
+      "power",
+      "up"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/games/lazer/power-up.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/multi__bullet.png",
+    "category": "items",
+    "name": "bullet",
+    "tags": [
+      "items",
+      "bullet"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/games/multi/bullet.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/multi__bullet2.png",
+    "category": "items",
+    "name": "bullet2",
+    "tags": [
+      "items",
+      "bullet2"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/games/multi/bullet2.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/pics__jim-sachs-time-crystal.png",
+    "category": "items",
+    "name": "jim sachs time crystal",
+    "tags": [
+      "items",
+      "jim",
+      "sachs",
+      "time",
+      "crystal"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/pics/jim-sachs-time-crystal.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/sprites__ball-pink.png",
+    "category": "items",
+    "name": "ball pink",
+    "tags": [
+      "items",
+      "ball",
+      "pink"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/ball-pink.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/sprites__balls.png",
+    "category": "items",
+    "name": "balls",
+    "tags": [
+      "items",
+      "balls"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/balls.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/bullets__bullet10.png",
+    "category": "items",
+    "name": "bullet10",
+    "tags": [
+      "items",
+      "bullet10"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/bullets/bullet10.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/bullets__bullet11.png",
+    "category": "items",
+    "name": "bullet11",
+    "tags": [
+      "items",
+      "bullet11"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/bullets/bullet11.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/bullets__bullet2.png",
+    "category": "items",
+    "name": "bullet2",
+    "tags": [
+      "items",
+      "bullet2"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/bullets/bullet2.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/bullets__bullet3.png",
+    "category": "items",
+    "name": "bullet3",
+    "tags": [
+      "items",
+      "bullet3"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/bullets/bullet3.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/bullets__bullet4.png",
+    "category": "items",
+    "name": "bullet4",
+    "tags": [
+      "items",
+      "bullet4"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/bullets/bullet4.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/bullets__bullet5.png",
+    "category": "items",
+    "name": "bullet5",
+    "tags": [
+      "items",
+      "bullet5"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/bullets/bullet5.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/bullets__bullet6.png",
+    "category": "items",
+    "name": "bullet6",
+    "tags": [
+      "items",
+      "bullet6"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/bullets/bullet6.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/bullets__bullet7.png",
+    "category": "items",
+    "name": "bullet7",
+    "tags": [
+      "items",
+      "bullet7"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/bullets/bullet7.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/bullets__bullet8.png",
+    "category": "items",
+    "name": "bullet8",
+    "tags": [
+      "items",
+      "bullet8"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/bullets/bullet8.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/bullets__bullet9.png",
+    "category": "items",
+    "name": "bullet9",
+    "tags": [
+      "items",
+      "bullet9"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/bullets/bullet9.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/sprites__coin-16x16x4.png",
+    "category": "items",
+    "name": "coin 16x16x4",
+    "tags": [
+      "items",
+      "coin",
+      "16x16x4"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/coin-16x16x4.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/sprites__coin.png",
+    "category": "items",
+    "name": "coin",
+    "tags": [
+      "items",
+      "coin"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/coin.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/sprites__enemy-bullet.png",
+    "category": "items",
+    "name": "enemy bullet",
+    "tags": [
+      "items",
+      "enemy",
+      "bullet"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/enemy-bullet.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/sprites__gem-blue-16x16x4.png",
+    "category": "items",
+    "name": "gem blue 16x16x4",
+    "tags": [
+      "items",
+      "gem",
+      "blue",
+      "16x16x4"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/gem-blue-16x16x4.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/sprites__gem-green-16x16x4.png",
+    "category": "items",
+    "name": "gem green 16x16x4",
+    "tags": [
+      "items",
+      "gem",
+      "green",
+      "16x16x4"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/gem-green-16x16x4.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/sprites__gem-red-16x16x4.png",
+    "category": "items",
+    "name": "gem red 16x16x4",
+    "tags": [
+      "items",
+      "gem",
+      "red",
+      "16x16x4"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/gem-red-16x16x4.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/sprites__gem.png",
+    "category": "items",
+    "name": "gem",
+    "tags": [
+      "items",
+      "gem"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/gem.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/sprites__orb-blue.png",
+    "category": "items",
+    "name": "orb blue",
+    "tags": [
+      "items",
+      "orb",
+      "blue"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/orb-blue.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/sprites__orb-green.png",
+    "category": "items",
+    "name": "orb green",
+    "tags": [
+      "items",
+      "orb",
+      "green"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/orb-green.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/sprites__orb-red.png",
+    "category": "items",
+    "name": "orb red",
+    "tags": [
+      "items",
+      "orb",
+      "red"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/orb-red.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/sprites__rgblaser.png",
+    "category": "items",
+    "name": "rgblaser",
+    "tags": [
+      "items",
+      "rgblaser"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/rgblaser.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/sprites__shmup-baddie-bullet.png",
+    "category": "items",
+    "name": "shmup baddie bullet",
+    "tags": [
+      "items",
+      "shmup",
+      "baddie",
+      "bullet"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/shmup-baddie-bullet.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/sprites__star.png",
+    "category": "items",
+    "name": "star",
+    "tags": [
+      "items",
+      "star"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/star.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/assets__star_1.png",
+    "category": "items",
+    "name": "star",
+    "tags": [
+      "items",
+      "star"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/src/games/firstgame/assets/star.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/demoscene__ball-tlb_1.png",
+    "category": "items",
+    "name": "ball tlb",
+    "tags": [
+      "items",
+      "ball",
+      "tlb"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/demoscene/ball-tlb.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/demoscene__ball_1.png",
+    "category": "items",
+    "name": "ball",
+    "tags": [
+      "items",
+      "ball"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/demoscene/ball.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/demoscene__star_1.png",
+    "category": "items",
+    "name": "star",
+    "tags": [
+      "items",
+      "star"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/demoscene/star.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/demoscene__vectorball1_1.png",
+    "category": "items",
+    "name": "vectorball1",
+    "tags": [
+      "items",
+      "vectorball1"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/demoscene/vectorball1.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/bank-panic__bullet-hole_1.png",
+    "category": "items",
+    "name": "bullet hole",
+    "tags": [
+      "items",
+      "bullet",
+      "hole"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/games/bank-panic/bullet-hole.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/breakout__ball1_1.png",
+    "category": "items",
+    "name": "ball1",
+    "tags": [
+      "items",
+      "ball1"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/games/breakout/ball1.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/breakout__ball2_1.png",
+    "category": "items",
+    "name": "ball2",
+    "tags": [
+      "items",
+      "ball2"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/games/breakout/ball2.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/coin-clicker__cc-logo.png",
+    "category": "items",
+    "name": "cc logo",
+    "tags": [
+      "items",
+      "cc",
+      "logo"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/games/coin-clicker/cc-logo.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/coin-clicker__coin.png",
+    "category": "items",
+    "name": "coin",
+    "tags": [
+      "items",
+      "coin"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/games/coin-clicker/coin.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/coin-clicker__preloader.png",
+    "category": "items",
+    "name": "preloader",
+    "tags": [
+      "items",
+      "preloader"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/games/coin-clicker/preloader.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/lazer__laser-bolts_1.png",
+    "category": "items",
+    "name": "laser bolts",
+    "tags": [
+      "items",
+      "laser",
+      "bolts"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/games/lazer/laser-bolts.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/lazer__power-up_1.png",
+    "category": "items",
+    "name": "power up",
+    "tags": [
+      "items",
+      "power",
+      "up"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/games/lazer/power-up.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/multi__bullet_1.png",
+    "category": "items",
+    "name": "bullet",
+    "tags": [
+      "items",
+      "bullet"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/games/multi/bullet.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/multi__bullet2_1.png",
+    "category": "items",
+    "name": "bullet2",
+    "tags": [
+      "items",
+      "bullet2"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/games/multi/bullet2.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/images__coin.png",
+    "category": "items",
+    "name": "coin",
+    "tags": [
+      "items",
+      "coin"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/phaserbyexample/runner/assets/images/coin.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/images__coin_1.png",
+    "category": "items",
+    "name": "coin",
+    "tags": [
+      "items",
+      "coin"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/phaserbyexample/wallhamer/assets/images/coin.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/images__star.png",
+    "category": "items",
+    "name": "star",
+    "tags": [
+      "items",
+      "star"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/phaserbyexample/wallhamer/assets/images/star.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/pics__jim-sachs-time-crystal_1.png",
+    "category": "items",
+    "name": "jim sachs time crystal",
+    "tags": [
+      "items",
+      "jim",
+      "sachs",
+      "time",
+      "crystal"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/pics/jim-sachs-time-crystal.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/sprites__ball-pink_1.png",
+    "category": "items",
+    "name": "ball pink",
+    "tags": [
+      "items",
+      "ball",
+      "pink"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/ball-pink.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/sprites__balls_1.png",
+    "category": "items",
+    "name": "balls",
+    "tags": [
+      "items",
+      "balls"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/balls.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/bullets__bullet10_1.png",
+    "category": "items",
+    "name": "bullet10",
+    "tags": [
+      "items",
+      "bullet10"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/bullets/bullet10.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/bullets__bullet11_1.png",
+    "category": "items",
+    "name": "bullet11",
+    "tags": [
+      "items",
+      "bullet11"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/bullets/bullet11.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/bullets__bullet2_1.png",
+    "category": "items",
+    "name": "bullet2",
+    "tags": [
+      "items",
+      "bullet2"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/bullets/bullet2.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/bullets__bullet3_1.png",
+    "category": "items",
+    "name": "bullet3",
+    "tags": [
+      "items",
+      "bullet3"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/bullets/bullet3.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/bullets__bullet4_1.png",
+    "category": "items",
+    "name": "bullet4",
+    "tags": [
+      "items",
+      "bullet4"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/bullets/bullet4.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/bullets__bullet5_1.png",
+    "category": "items",
+    "name": "bullet5",
+    "tags": [
+      "items",
+      "bullet5"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/bullets/bullet5.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/bullets__bullet6_1.png",
+    "category": "items",
+    "name": "bullet6",
+    "tags": [
+      "items",
+      "bullet6"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/bullets/bullet6.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/bullets__bullet7_1.png",
+    "category": "items",
+    "name": "bullet7",
+    "tags": [
+      "items",
+      "bullet7"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/bullets/bullet7.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/bullets__bullet8_1.png",
+    "category": "items",
+    "name": "bullet8",
+    "tags": [
+      "items",
+      "bullet8"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/bullets/bullet8.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/bullets__bullet9_1.png",
+    "category": "items",
+    "name": "bullet9",
+    "tags": [
+      "items",
+      "bullet9"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/bullets/bullet9.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/sprites__coin-16x16x4_1.png",
+    "category": "items",
+    "name": "coin 16x16x4",
+    "tags": [
+      "items",
+      "coin",
+      "16x16x4"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/coin-16x16x4.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/sprites__coin_1.png",
+    "category": "items",
+    "name": "coin",
+    "tags": [
+      "items",
+      "coin"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/coin.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/sprites__enemy-bullet_1.png",
+    "category": "items",
+    "name": "enemy bullet",
+    "tags": [
+      "items",
+      "enemy",
+      "bullet"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/enemy-bullet.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/sprites__gem-blue-16x16x4_1.png",
+    "category": "items",
+    "name": "gem blue 16x16x4",
+    "tags": [
+      "items",
+      "gem",
+      "blue",
+      "16x16x4"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/gem-blue-16x16x4.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/sprites__gem-green-16x16x4_1.png",
+    "category": "items",
+    "name": "gem green 16x16x4",
+    "tags": [
+      "items",
+      "gem",
+      "green",
+      "16x16x4"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/gem-green-16x16x4.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/sprites__gem-red-16x16x4_1.png",
+    "category": "items",
+    "name": "gem red 16x16x4",
+    "tags": [
+      "items",
+      "gem",
+      "red",
+      "16x16x4"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/gem-red-16x16x4.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/sprites__gem_1.png",
+    "category": "items",
+    "name": "gem",
+    "tags": [
+      "items",
+      "gem"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/gem.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/sprites__orb-blue_1.png",
+    "category": "items",
+    "name": "orb blue",
+    "tags": [
+      "items",
+      "orb",
+      "blue"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/orb-blue.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/sprites__orb-green_1.png",
+    "category": "items",
+    "name": "orb green",
+    "tags": [
+      "items",
+      "orb",
+      "green"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/orb-green.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/sprites__orb-red_1.png",
+    "category": "items",
+    "name": "orb red",
+    "tags": [
+      "items",
+      "orb",
+      "red"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/orb-red.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/sprites__rgblaser_1.png",
+    "category": "items",
+    "name": "rgblaser",
+    "tags": [
+      "items",
+      "rgblaser"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/rgblaser.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/sprites__shmup-baddie-bullet_1.png",
+    "category": "items",
+    "name": "shmup baddie bullet",
+    "tags": [
+      "items",
+      "shmup",
+      "baddie",
+      "bullet"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/shmup-baddie-bullet.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/sprites__star_1.png",
+    "category": "items",
+    "name": "star",
+    "tags": [
+      "items",
+      "star"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/star.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/assets__star_2.png",
+    "category": "items",
+    "name": "star",
+    "tags": [
+      "items",
+      "star"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/src/games/firstgame/assets/star.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/demoscene__ball-tlb_2.png",
+    "category": "items",
+    "name": "ball tlb",
+    "tags": [
+      "items",
+      "ball",
+      "tlb"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/assets/demoscene/ball-tlb.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/demoscene__ball_2.png",
+    "category": "items",
+    "name": "ball",
+    "tags": [
+      "items",
+      "ball"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/assets/demoscene/ball.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/demoscene__star_2.png",
+    "category": "items",
+    "name": "star",
+    "tags": [
+      "items",
+      "star"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/assets/demoscene/star.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/demoscene__vectorball1_2.png",
+    "category": "items",
+    "name": "vectorball1",
+    "tags": [
+      "items",
+      "vectorball1"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/assets/demoscene/vectorball1.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/bank-panic__bullet-hole_2.png",
+    "category": "items",
+    "name": "bullet hole",
+    "tags": [
+      "items",
+      "bullet",
+      "hole"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/assets/games/bank-panic/bullet-hole.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/breakout__ball1_2.png",
+    "category": "items",
+    "name": "ball1",
+    "tags": [
+      "items",
+      "ball1"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/assets/games/breakout/ball1.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "items/breakout__ball2_2.png",
+    "category": "items",
+    "name": "ball2",
+    "tags": [
+      "items",
+      "ball2"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/assets/games/breakout/ball2.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/breakout__button.png",
+    "category": "ui",
+    "name": "button",
+    "tags": [
+      "ui",
+      "button"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/games/breakout/button.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/breakout__buttonOver.png",
+    "category": "ui",
+    "name": "buttonOver",
+    "tags": [
+      "ui",
+      "buttonover"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/games/breakout/buttonOver.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/ui__heart.png",
+    "category": "ui",
+    "name": "heart",
+    "tags": [
+      "ui",
+      "heart"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/games/card-memory-game/ui/heart.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/ui__volume-icon.png",
+    "category": "ui",
+    "name": "volume icon",
+    "tags": [
+      "ui",
+      "volume",
+      "icon"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/games/card-memory-game/ui/volume-icon.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/ui__volume-icon_off.png",
+    "category": "ui",
+    "name": "volume icon off",
+    "tags": [
+      "ui",
+      "volume",
+      "icon",
+      "off"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/games/card-memory-game/ui/volume-icon_off.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/sc2__logo.png",
+    "category": "ui",
+    "name": "logo",
+    "tags": [
+      "ui",
+      "logo"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/input/cursors/sc2/logo.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/sc2__starcraft2-mac-folder-by-gazol-d3d7ctl.png",
+    "category": "ui",
+    "name": "starcraft2 mac folder by gazol d3d7ctl",
+    "tags": [
+      "ui",
+      "starcraft2",
+      "mac",
+      "folder",
+      "by",
+      "gazol",
+      "d3d7ctl"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/input/cursors/sc2/starcraft2-mac-folder-by-gazol-d3d7ctl.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/sprites__amiga-cursor.png",
+    "category": "ui",
+    "name": "amiga cursor",
+    "tags": [
+      "ui",
+      "amiga",
+      "cursor"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/amiga-cursor.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/sprites__button-bg.png",
+    "category": "ui",
+    "name": "button bg",
+    "tags": [
+      "ui",
+      "button",
+      "bg"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/button-bg.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/sprites__button-text.png",
+    "category": "ui",
+    "name": "button text",
+    "tags": [
+      "ui",
+      "button",
+      "text"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/button-text.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/sprites__cursor-rotate.png",
+    "category": "ui",
+    "name": "cursor rotate",
+    "tags": [
+      "ui",
+      "cursor",
+      "rotate"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/cursor-rotate.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/sprites__drawcursor.png",
+    "category": "ui",
+    "name": "drawcursor",
+    "tags": [
+      "ui",
+      "drawcursor"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/drawcursor.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/sprites__healthbar.png",
+    "category": "ui",
+    "name": "healthbar",
+    "tags": [
+      "ui",
+      "healthbar"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/healthbar.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/ui__dark-ui.png",
+    "category": "ui",
+    "name": "dark ui",
+    "tags": [
+      "ui",
+      "dark"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/ui/dark-ui.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/ui__down-bubble.png",
+    "category": "ui",
+    "name": "down bubble",
+    "tags": [
+      "ui",
+      "down",
+      "bubble"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/ui/down-bubble.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/ui__flixel-button.png",
+    "category": "ui",
+    "name": "flixel button",
+    "tags": [
+      "ui",
+      "flixel",
+      "button"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/ui/flixel-button.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/ui__fullscreen-white.png",
+    "category": "ui",
+    "name": "fullscreen white",
+    "tags": [
+      "ui",
+      "fullscreen",
+      "white"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/ui/fullscreen-white.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/ui__fullscreen.png",
+    "category": "ui",
+    "name": "fullscreen",
+    "tags": [
+      "ui",
+      "fullscreen"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/ui/fullscreen.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/ui__nine-slice.png",
+    "category": "ui",
+    "name": "nine slice",
+    "tags": [
+      "ui",
+      "nine",
+      "slice"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/ui/nine-slice.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/ui__position-button.png",
+    "category": "ui",
+    "name": "position button",
+    "tags": [
+      "ui",
+      "position",
+      "button"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/ui/position-button.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/ui__rotation-button.png",
+    "category": "ui",
+    "name": "rotation button",
+    "tags": [
+      "ui",
+      "rotation",
+      "button"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/ui/rotation-button.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/ui__undersea-bg.png",
+    "category": "ui",
+    "name": "undersea bg",
+    "tags": [
+      "ui",
+      "undersea",
+      "bg"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/ui/undersea-bg.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/ui__up-bubble.png",
+    "category": "ui",
+    "name": "up bubble",
+    "tags": [
+      "ui",
+      "up",
+      "bubble"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/ui/up-bubble.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/breakout__button_1.png",
+    "category": "ui",
+    "name": "button",
+    "tags": [
+      "ui",
+      "button"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/games/breakout/button.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/breakout__buttonOver_1.png",
+    "category": "ui",
+    "name": "buttonOver",
+    "tags": [
+      "ui",
+      "buttonover"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/games/breakout/buttonOver.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/ui__heart_1.png",
+    "category": "ui",
+    "name": "heart",
+    "tags": [
+      "ui",
+      "heart"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/games/card-memory-game/ui/heart.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/ui__volume-icon_1.png",
+    "category": "ui",
+    "name": "volume icon",
+    "tags": [
+      "ui",
+      "volume",
+      "icon"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/games/card-memory-game/ui/volume-icon.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/ui__volume-icon_off_1.png",
+    "category": "ui",
+    "name": "volume icon off",
+    "tags": [
+      "ui",
+      "volume",
+      "icon",
+      "off"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/games/card-memory-game/ui/volume-icon_off.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/sc2__logo_1.png",
+    "category": "ui",
+    "name": "logo",
+    "tags": [
+      "ui",
+      "logo"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/input/cursors/sc2/logo.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/sc2__starcraft2-mac-folder-by-gazol-d3d7ctl_1.png",
+    "category": "ui",
+    "name": "starcraft2 mac folder by gazol d3d7ctl",
+    "tags": [
+      "ui",
+      "starcraft2",
+      "mac",
+      "folder",
+      "by",
+      "gazol",
+      "d3d7ctl"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/input/cursors/sc2/starcraft2-mac-folder-by-gazol-d3d7ctl.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/sprites__amiga-cursor_1.png",
+    "category": "ui",
+    "name": "amiga cursor",
+    "tags": [
+      "ui",
+      "amiga",
+      "cursor"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/amiga-cursor.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/sprites__button-bg_1.png",
+    "category": "ui",
+    "name": "button bg",
+    "tags": [
+      "ui",
+      "button",
+      "bg"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/button-bg.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/sprites__button-text_1.png",
+    "category": "ui",
+    "name": "button text",
+    "tags": [
+      "ui",
+      "button",
+      "text"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/button-text.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/sprites__cursor-rotate_1.png",
+    "category": "ui",
+    "name": "cursor rotate",
+    "tags": [
+      "ui",
+      "cursor",
+      "rotate"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/cursor-rotate.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/sprites__drawcursor_1.png",
+    "category": "ui",
+    "name": "drawcursor",
+    "tags": [
+      "ui",
+      "drawcursor"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/drawcursor.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/sprites__healthbar_1.png",
+    "category": "ui",
+    "name": "healthbar",
+    "tags": [
+      "ui",
+      "healthbar"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/sprites/healthbar.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/ui__dark-ui_1.png",
+    "category": "ui",
+    "name": "dark ui",
+    "tags": [
+      "ui",
+      "dark"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/ui/dark-ui.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/ui__down-bubble_1.png",
+    "category": "ui",
+    "name": "down bubble",
+    "tags": [
+      "ui",
+      "down",
+      "bubble"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/ui/down-bubble.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/ui__flixel-button_1.png",
+    "category": "ui",
+    "name": "flixel button",
+    "tags": [
+      "ui",
+      "flixel",
+      "button"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/ui/flixel-button.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/ui__fullscreen-white_1.png",
+    "category": "ui",
+    "name": "fullscreen white",
+    "tags": [
+      "ui",
+      "fullscreen",
+      "white"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/ui/fullscreen-white.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/ui__fullscreen_1.png",
+    "category": "ui",
+    "name": "fullscreen",
+    "tags": [
+      "ui",
+      "fullscreen"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/ui/fullscreen.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/ui__nine-slice_1.png",
+    "category": "ui",
+    "name": "nine slice",
+    "tags": [
+      "ui",
+      "nine",
+      "slice"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/ui/nine-slice.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/ui__play-button.png",
+    "category": "ui",
+    "name": "play button",
+    "tags": [
+      "ui",
+      "play",
+      "button"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/ui/play-button.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/ui__position-button_1.png",
+    "category": "ui",
+    "name": "position button",
+    "tags": [
+      "ui",
+      "position",
+      "button"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/ui/position-button.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/ui__rotation-button_1.png",
+    "category": "ui",
+    "name": "rotation button",
+    "tags": [
+      "ui",
+      "rotation",
+      "button"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/ui/rotation-button.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/ui__undersea-bg_1.png",
+    "category": "ui",
+    "name": "undersea bg",
+    "tags": [
+      "ui",
+      "undersea",
+      "bg"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/ui/undersea-bg.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/ui__up-bubble_1.png",
+    "category": "ui",
+    "name": "up bubble",
+    "tags": [
+      "ui",
+      "up",
+      "bubble"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/ui/up-bubble.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/breakout__button_2.png",
+    "category": "ui",
+    "name": "button",
+    "tags": [
+      "ui",
+      "button"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/assets/games/breakout/button.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/breakout__buttonOver_2.png",
+    "category": "ui",
+    "name": "buttonOver",
+    "tags": [
+      "ui",
+      "buttonover"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/assets/games/breakout/buttonOver.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/ui__heart_2.png",
+    "category": "ui",
+    "name": "heart",
+    "tags": [
+      "ui",
+      "heart"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/assets/games/card-memory-game/ui/heart.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/ui__volume-icon_2.png",
+    "category": "ui",
+    "name": "volume icon",
+    "tags": [
+      "ui",
+      "volume",
+      "icon"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/assets/games/card-memory-game/ui/volume-icon.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/ui__volume-icon_off_2.png",
+    "category": "ui",
+    "name": "volume icon off",
+    "tags": [
+      "ui",
+      "volume",
+      "icon",
+      "off"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/assets/games/card-memory-game/ui/volume-icon_off.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/sc2__logo_2.png",
+    "category": "ui",
+    "name": "logo",
+    "tags": [
+      "ui",
+      "logo"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/assets/input/cursors/sc2/logo.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/sc2__starcraft2-mac-folder-by-gazol-d3d7ctl_2.png",
+    "category": "ui",
+    "name": "starcraft2 mac folder by gazol d3d7ctl",
+    "tags": [
+      "ui",
+      "starcraft2",
+      "mac",
+      "folder",
+      "by",
+      "gazol",
+      "d3d7ctl"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/assets/input/cursors/sc2/starcraft2-mac-folder-by-gazol-d3d7ctl.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/sprites__amiga-cursor_2.png",
+    "category": "ui",
+    "name": "amiga cursor",
+    "tags": [
+      "ui",
+      "amiga",
+      "cursor"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/assets/sprites/amiga-cursor.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/sprites__button-bg_2.png",
+    "category": "ui",
+    "name": "button bg",
+    "tags": [
+      "ui",
+      "button",
+      "bg"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/assets/sprites/button-bg.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/sprites__button-text_2.png",
+    "category": "ui",
+    "name": "button text",
+    "tags": [
+      "ui",
+      "button",
+      "text"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/assets/sprites/button-text.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/sprites__cursor-rotate_2.png",
+    "category": "ui",
+    "name": "cursor rotate",
+    "tags": [
+      "ui",
+      "cursor",
+      "rotate"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/assets/sprites/cursor-rotate.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/sprites__drawcursor_2.png",
+    "category": "ui",
+    "name": "drawcursor",
+    "tags": [
+      "ui",
+      "drawcursor"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/assets/sprites/drawcursor.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "ui/sprites__healthbar_2.png",
+    "category": "ui",
+    "name": "healthbar",
+    "tags": [
+      "ui",
+      "healthbar"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/assets/sprites/healthbar.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/lazer__explosion.png",
+    "category": "effects",
+    "name": "explosion",
+    "tags": [
+      "effects",
+      "explosion"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/games/lazer/explosion.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/multi__explode.png",
+    "category": "effects",
+    "name": "explode",
+    "tags": [
+      "effects",
+      "explode"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/games/multi/explode.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__blue-flare.png",
+    "category": "effects",
+    "name": "blue flare",
+    "tags": [
+      "effects",
+      "blue",
+      "flare"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/blue-flare.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__blue.png",
+    "category": "effects",
+    "name": "blue",
+    "tags": [
+      "effects",
+      "blue"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/blue.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__bluebubble.png",
+    "category": "effects",
+    "name": "bluebubble",
+    "tags": [
+      "effects",
+      "bluebubble"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/bluebubble.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__bubble.png",
+    "category": "effects",
+    "name": "bubble",
+    "tags": [
+      "effects",
+      "bubble"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/bubble.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__bubble256.png",
+    "category": "effects",
+    "name": "bubble256",
+    "tags": [
+      "effects",
+      "bubble256"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/bubble256.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__bubbles.png",
+    "category": "effects",
+    "name": "bubbles",
+    "tags": [
+      "effects",
+      "bubbles"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/bubbles.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__cloud.png",
+    "category": "effects",
+    "name": "cloud",
+    "tags": [
+      "effects",
+      "cloud"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/cloud.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__coin.png",
+    "category": "effects",
+    "name": "coin",
+    "tags": [
+      "effects",
+      "coin"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/coin.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__elec1.png",
+    "category": "effects",
+    "name": "elec1",
+    "tags": [
+      "effects",
+      "elec1"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/elec1.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__elec2.png",
+    "category": "effects",
+    "name": "elec2",
+    "tags": [
+      "effects",
+      "elec2"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/elec2.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__elec3.png",
+    "category": "effects",
+    "name": "elec3",
+    "tags": [
+      "effects",
+      "elec3"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/elec3.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__elec4.png",
+    "category": "effects",
+    "name": "elec4",
+    "tags": [
+      "effects",
+      "elec4"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/elec4.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__explosion.png",
+    "category": "effects",
+    "name": "explosion",
+    "tags": [
+      "effects",
+      "explosion"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/explosion.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__fire1.png",
+    "category": "effects",
+    "name": "fire1",
+    "tags": [
+      "effects",
+      "fire1"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/fire1.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__fire2.png",
+    "category": "effects",
+    "name": "fire2",
+    "tags": [
+      "effects",
+      "fire2"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/fire2.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__fire3.png",
+    "category": "effects",
+    "name": "fire3",
+    "tags": [
+      "effects",
+      "fire3"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/fire3.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__flame1.png",
+    "category": "effects",
+    "name": "flame1",
+    "tags": [
+      "effects",
+      "flame1"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/flame1.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__flame2.png",
+    "category": "effects",
+    "name": "flame2",
+    "tags": [
+      "effects",
+      "flame2"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/flame2.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__flares.png",
+    "category": "effects",
+    "name": "flares",
+    "tags": [
+      "effects",
+      "flares"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/flares.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__fuse.png",
+    "category": "effects",
+    "name": "fuse",
+    "tags": [
+      "effects",
+      "fuse"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/fuse.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__glass.png",
+    "category": "effects",
+    "name": "glass",
+    "tags": [
+      "effects",
+      "glass"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/glass.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__gold.png",
+    "category": "effects",
+    "name": "gold",
+    "tags": [
+      "effects",
+      "gold"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/gold.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__green-orb.png",
+    "category": "effects",
+    "name": "green orb",
+    "tags": [
+      "effects",
+      "green",
+      "orb"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/green-orb.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__green.png",
+    "category": "effects",
+    "name": "green",
+    "tags": [
+      "effects",
+      "green"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/green.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__greenbubble.png",
+    "category": "effects",
+    "name": "greenbubble",
+    "tags": [
+      "effects",
+      "greenbubble"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/greenbubble.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__leaf1.png",
+    "category": "effects",
+    "name": "leaf1",
+    "tags": [
+      "effects",
+      "leaf1"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/leaf1.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__leaf2.png",
+    "category": "effects",
+    "name": "leaf2",
+    "tags": [
+      "effects",
+      "leaf2"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/leaf2.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__leaf3.png",
+    "category": "effects",
+    "name": "leaf3",
+    "tags": [
+      "effects",
+      "leaf3"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/leaf3.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__lit-smoke.png",
+    "category": "effects",
+    "name": "lit smoke",
+    "tags": [
+      "effects",
+      "lit",
+      "smoke"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/lit-smoke.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__muzzleflash1.png",
+    "category": "effects",
+    "name": "muzzleflash1",
+    "tags": [
+      "effects",
+      "muzzleflash1"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/muzzleflash1.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__muzzleflash2.png",
+    "category": "effects",
+    "name": "muzzleflash2",
+    "tags": [
+      "effects",
+      "muzzleflash2"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/muzzleflash2.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__muzzleflash3.png",
+    "category": "effects",
+    "name": "muzzleflash3",
+    "tags": [
+      "effects",
+      "muzzleflash3"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/muzzleflash3.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__muzzleflash4.png",
+    "category": "effects",
+    "name": "muzzleflash4",
+    "tags": [
+      "effects",
+      "muzzleflash4"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/muzzleflash4.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__muzzleflash5.png",
+    "category": "effects",
+    "name": "muzzleflash5",
+    "tags": [
+      "effects",
+      "muzzleflash5"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/muzzleflash5.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__muzzleflash6.png",
+    "category": "effects",
+    "name": "muzzleflash6",
+    "tags": [
+      "effects",
+      "muzzleflash6"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/muzzleflash6.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__muzzleflash7.png",
+    "category": "effects",
+    "name": "muzzleflash7",
+    "tags": [
+      "effects",
+      "muzzleflash7"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/muzzleflash7.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__orb.png",
+    "category": "effects",
+    "name": "orb",
+    "tags": [
+      "effects",
+      "orb"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/orb.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__pipe.png",
+    "category": "effects",
+    "name": "pipe",
+    "tags": [
+      "effects",
+      "pipe"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/pipe.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__plasmaball.png",
+    "category": "effects",
+    "name": "plasmaball",
+    "tags": [
+      "effects",
+      "plasmaball"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/plasmaball.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__platform.png",
+    "category": "effects",
+    "name": "platform",
+    "tags": [
+      "effects",
+      "platform"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/platform.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__racetrack-bend.png",
+    "category": "effects",
+    "name": "racetrack bend",
+    "tags": [
+      "effects",
+      "racetrack",
+      "bend"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/racetrack-bend.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__red.png",
+    "category": "effects",
+    "name": "red",
+    "tags": [
+      "effects",
+      "red"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/red.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__redbubble.png",
+    "category": "effects",
+    "name": "redbubble",
+    "tags": [
+      "effects",
+      "redbubble"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/redbubble.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__ring.png",
+    "category": "effects",
+    "name": "ring",
+    "tags": [
+      "effects",
+      "ring"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/ring.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__rising-smoke.png",
+    "category": "effects",
+    "name": "rising smoke",
+    "tags": [
+      "effects",
+      "rising",
+      "smoke"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/rising-smoke.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__silverbubble.png",
+    "category": "effects",
+    "name": "silverbubble",
+    "tags": [
+      "effects",
+      "silverbubble"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/silverbubble.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__slime.png",
+    "category": "effects",
+    "name": "slime",
+    "tags": [
+      "effects",
+      "slime"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/slime.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__smoke-puff.png",
+    "category": "effects",
+    "name": "smoke puff",
+    "tags": [
+      "effects",
+      "smoke",
+      "puff"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/smoke-puff.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__smoke0.png",
+    "category": "effects",
+    "name": "smoke0",
+    "tags": [
+      "effects",
+      "smoke0"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/smoke0.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__snowflake.png",
+    "category": "effects",
+    "name": "snowflake",
+    "tags": [
+      "effects",
+      "snowflake"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/snowflake.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__soft1.png",
+    "category": "effects",
+    "name": "soft1",
+    "tags": [
+      "effects",
+      "soft1"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/soft1.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__soft10.png",
+    "category": "effects",
+    "name": "soft10",
+    "tags": [
+      "effects",
+      "soft10"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/soft10.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__soft11.png",
+    "category": "effects",
+    "name": "soft11",
+    "tags": [
+      "effects",
+      "soft11"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/soft11.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__soft12.png",
+    "category": "effects",
+    "name": "soft12",
+    "tags": [
+      "effects",
+      "soft12"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/soft12.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__soft13.png",
+    "category": "effects",
+    "name": "soft13",
+    "tags": [
+      "effects",
+      "soft13"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/soft13.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__soft14.png",
+    "category": "effects",
+    "name": "soft14",
+    "tags": [
+      "effects",
+      "soft14"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/soft14.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__soft15.png",
+    "category": "effects",
+    "name": "soft15",
+    "tags": [
+      "effects",
+      "soft15"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/soft15.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__soft2.png",
+    "category": "effects",
+    "name": "soft2",
+    "tags": [
+      "effects",
+      "soft2"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/soft2.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__soft3.png",
+    "category": "effects",
+    "name": "soft3",
+    "tags": [
+      "effects",
+      "soft3"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/soft3.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__soft4.png",
+    "category": "effects",
+    "name": "soft4",
+    "tags": [
+      "effects",
+      "soft4"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/soft4.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__soft5.png",
+    "category": "effects",
+    "name": "soft5",
+    "tags": [
+      "effects",
+      "soft5"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/soft5.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__soft6.png",
+    "category": "effects",
+    "name": "soft6",
+    "tags": [
+      "effects",
+      "soft6"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/soft6.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__soft7.png",
+    "category": "effects",
+    "name": "soft7",
+    "tags": [
+      "effects",
+      "soft7"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/soft7.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__soft8.png",
+    "category": "effects",
+    "name": "soft8",
+    "tags": [
+      "effects",
+      "soft8"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/soft8.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__soft9.png",
+    "category": "effects",
+    "name": "soft9",
+    "tags": [
+      "effects",
+      "soft9"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/soft9.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__sparkle1.png",
+    "category": "effects",
+    "name": "sparkle1",
+    "tags": [
+      "effects",
+      "sparkle1"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/sparkle1.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__splinter1.png",
+    "category": "effects",
+    "name": "splinter1",
+    "tags": [
+      "effects",
+      "splinter1"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/splinter1.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__splinter2.png",
+    "category": "effects",
+    "name": "splinter2",
+    "tags": [
+      "effects",
+      "splinter2"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/splinter2.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__square.png",
+    "category": "effects",
+    "name": "square",
+    "tags": [
+      "effects",
+      "square"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/square.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__star.png",
+    "category": "effects",
+    "name": "star",
+    "tags": [
+      "effects",
+      "star"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/star.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__stone.png",
+    "category": "effects",
+    "name": "stone",
+    "tags": [
+      "effects",
+      "stone"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/stone.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__white-flare.png",
+    "category": "effects",
+    "name": "white flare",
+    "tags": [
+      "effects",
+      "white",
+      "flare"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/white-flare.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__white-smoke.png",
+    "category": "effects",
+    "name": "white smoke",
+    "tags": [
+      "effects",
+      "white",
+      "smoke"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/white-smoke.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__white.png",
+    "category": "effects",
+    "name": "white",
+    "tags": [
+      "effects",
+      "white"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/white.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__yellow.png",
+    "category": "effects",
+    "name": "yellow",
+    "tags": [
+      "effects",
+      "yellow"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/particles/yellow.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/pics__acryl-bobablast.png",
+    "category": "effects",
+    "name": "acryl bobablast",
+    "tags": [
+      "effects",
+      "acryl",
+      "bobablast"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/pics/acryl-bobablast.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/sprites__aero-blaster-ships.png",
+    "category": "effects",
+    "name": "aero blaster ships",
+    "tags": [
+      "effects",
+      "aero",
+      "blaster",
+      "ships"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/aero-blaster-ships.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/sprites__explosion.png",
+    "category": "effects",
+    "name": "explosion",
+    "tags": [
+      "effects",
+      "explosion"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.55/assets/sprites/explosion.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/lazer__explosion_1.png",
+    "category": "effects",
+    "name": "explosion",
+    "tags": [
+      "effects",
+      "explosion"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/games/lazer/explosion.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/multi__explode_1.png",
+    "category": "effects",
+    "name": "explode",
+    "tags": [
+      "effects",
+      "explode"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/games/multi/explode.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__blue-flare_1.png",
+    "category": "effects",
+    "name": "blue flare",
+    "tags": [
+      "effects",
+      "blue",
+      "flare"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/particles/blue-flare.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__blue_1.png",
+    "category": "effects",
+    "name": "blue",
+    "tags": [
+      "effects",
+      "blue"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/particles/blue.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__bluebubble_1.png",
+    "category": "effects",
+    "name": "bluebubble",
+    "tags": [
+      "effects",
+      "bluebubble"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/particles/bluebubble.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__bubble_1.png",
+    "category": "effects",
+    "name": "bubble",
+    "tags": [
+      "effects",
+      "bubble"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/particles/bubble.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__bubble256_1.png",
+    "category": "effects",
+    "name": "bubble256",
+    "tags": [
+      "effects",
+      "bubble256"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/particles/bubble256.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__bubbles_1.png",
+    "category": "effects",
+    "name": "bubbles",
+    "tags": [
+      "effects",
+      "bubbles"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/particles/bubbles.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__cloud_1.png",
+    "category": "effects",
+    "name": "cloud",
+    "tags": [
+      "effects",
+      "cloud"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/particles/cloud.png",
+    "license": "phaserjs-examples (sample art)"
+  },
+  {
+    "path": "effects/particles__coin_1.png",
+    "category": "effects",
+    "name": "coin",
+    "tags": [
+      "effects",
+      "coin"
+    ],
+    "style": "generic",
+    "source": "github:phaserjs/examples/public/3.86/assets/particles/coin.png",
+    "license": "phaserjs-examples (sample art)"
   }
 ]

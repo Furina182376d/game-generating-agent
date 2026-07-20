@@ -20,7 +20,9 @@ EMB_FILE = ASSETS_DIR / "embeddings.npy"
 class AssetRetriever:
     """Lazy CLIP-backed retriever. Import-time cheap; model loads on first use."""
 
-    def __init__(self, model_name: str = "ViT-B-32", pretrained: str = "openai"):
+    # openai weights were trained with QuickGELU; the -quickgelu model variant
+    # matches that so activations line up (plain ViT-B-32 warns + degrades).
+    def __init__(self, model_name: str = "ViT-B-32-quickgelu", pretrained: str = "openai"):
         self.model_name = model_name
         self.pretrained = pretrained
         self._model = None

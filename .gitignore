@@ -7,6 +7,7 @@ venv/
 # Vector index artifacts (regenerable)
 assets/*.faiss
 assets/*.npy
+assets/
 
 # Generated games
 output/
